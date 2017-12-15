@@ -1,4 +1,13 @@
+#include<iostream>
+#include<cstring>
+#include<iomanip>
+#include<windows.h>
+#include<conio.h>
+#define max 30
+ 
+using namespace std;
 
+class_shedule sir[max];
 void  class_shedule::show()
 {
      system("cls");
